@@ -1,0 +1,87 @@
+.container-fluid {
+    padding: 3% 15%;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+h1 {
+    font-family: 'Montserrat-black', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+
+/*---navegation bar---*/
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 400;
+    font-weight: bold;
+    font-size: 2rem;  
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat-Light', sans-serif;
+    font-weight: 300;
+}
+
+/*------bottons------*/
+
+.download-btn {
+    margin: 5% 3% 5% 0;
+}
+/*------Title image--------*/
+#iphone-img {
+    width: 60%;
+    transform: rotate(25deg);
+}
+
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+/*--- Features---*/
+#features {
+    padding: 7% 15%;
+}
+
+.box-features {
+    text-align: center;
+    padding: 5%; 
+}
+
+
+.icon-features {
+    color: #ef8172;
+    font-size: 3.5rem;
+    margin-left: auto;
+}
+
+.icon-features:hover {
+    color: #ff4c68;
+}
+
+
+.feature-title {
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    padding-top: 1rem;
+}
+
+.feature-text {
+    color: #8f8f8f;
+}
