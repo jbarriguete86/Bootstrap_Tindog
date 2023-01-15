@@ -24,14 +24,14 @@ h1 {
     font-family: 'Ubuntu', sans-serif;
     font-weight: 400;
     font-weight: bold;
-    font-size: 2rem;  
+    font-size: 2rem;
 }
 
 .nav-item {
     padding: 0 18px;
 }
 
-.nav-link{
+.nav-link {
     font-size: 1.2rem;
     font-family: 'Montserrat-Light', sans-serif;
     font-weight: 300;
@@ -42,6 +42,7 @@ h1 {
 .download-btn {
     margin: 5% 3% 5% 0;
 }
+
 /*------Title image--------*/
 #iphone-img {
     width: 60%;
@@ -60,7 +61,7 @@ h1 {
 
 .box-features {
     text-align: center;
-    padding: 5%; 
+    padding: 5%;
 }
 
 
